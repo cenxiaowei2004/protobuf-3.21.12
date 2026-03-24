@@ -2,7 +2,7 @@
 
 1. clone
 ```shell
-git clone
+git clone git@github.com:cenxiaowei2004/protobuf-3.21.12.git
 
 tar -xvf protobuf-3.21.12.tar 
 
