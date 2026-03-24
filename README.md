@@ -39,3 +39,15 @@ export CPLUS_INCLUDE_PATH=$CPLUS_INCLUDE_PATH:/usr/local/protobuf/include/
 # pkg-config 路径
 export PKG_CONFIG_PATH=/usr/local/protobuf/lib/pkgconfig/
 ```
+
+4. source
+```shell
+source /etc/profile
+```
+
+5. version
+```shell
+protoc --version
+# libprotoc 3.21.12
+```
+
